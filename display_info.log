@@ -1,0 +1,3 @@
+INFO:root:[2019-07-11 19:55] 실행결과 args - ('John', 25), kwargs - {}
+INFO:root:[2019-07-11 19:59] 실행결과 args - ('John', 25), kwargs - {}
+INFO:root:[2019-07-11 20:25] 실행결과 args - ('John', 25), kwargs - {}
